@@ -5,7 +5,7 @@ public class Two_DArrays {
 //        size of each block/cell = data_type of array && total size of array = (rows*cols)*data_type
 
 //        Declaration
-//        type[][] arrayName = new type[rows][cols];
+//        data_type[][] arrayName = new type[rows][cols];
 //        ex: int[][] nums = new int[3][5];
 
         Scanner sc = new Scanner(System.in);

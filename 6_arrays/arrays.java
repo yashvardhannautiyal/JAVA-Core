@@ -26,6 +26,7 @@ public class arrays {
     for(int i =0; i<size; i++){
         System.out.println(arr[i]);
     }
+        System.out.println(arr.length);
 
 //  Question
 // Take an array as an input from the user. Search for a given number x and print the index at which it occurs
