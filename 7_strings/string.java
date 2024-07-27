@@ -20,5 +20,16 @@ public class string {
 
     String name4 = "Aman and Appu";
     System.out.println(name4.substring(0,4)); //gives characters from index 0-4; this also does not changes the string but creates a new string where substring is stored
+
+
+//        muttable and imuttable strings
+//        string is immutable : can't be changed
+
+//        muttable strings : can be changed -> a) string builder b) string buffer
+
+
+
+
+
     }
 }
