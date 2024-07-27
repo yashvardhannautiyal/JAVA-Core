@@ -1,5 +1,6 @@
 public class string {
-    public static void main(String[] args){ 
+    public static void main(String[] args){
+//        methods : these methods edits the existing string and creates a new object where it stores the modified string as string is immutable
     // length()
     // new String() 
     // concatenate
@@ -26,9 +27,16 @@ public class string {
 //        string is immutable : can't be changed
 
 //        muttable strings : can be changed -> a) string builder b) string buffer
+        StringBuffer sb = new StringBuffer("hello");
+        System.out.println(sb.capacity());
 
-
-
+//        methods : these methods edits the StringBuffer as it is mutable and can be changed
+// append()
+//insert()
+        //delete()
+        //capactiy()
+        //replace()
+        //reverse()
 
 
     }
