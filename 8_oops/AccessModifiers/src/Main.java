@@ -5,8 +5,17 @@ class modifiers{
     private String name;
 
 //    public access modifier
-    public void getVal(){
-        System.out.println(val + name);
+    public void setVal(int v){
+       val = v;
+    }
+    public int getVal(){
+        return val;
+    }
+    public void setName(String n){
+        name = n;
+    }
+    public String getName(){
+        return name;
     }
 }
 
@@ -14,11 +23,13 @@ class modifiers{
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         modifiers a = new modifiers();
 //        a.val = 67;
-//        a.name = "hello";
-        a.getVal();
+//        a.name = "hello"; throws error as private access modifier
+        a.setVal(67);
+        System.out.println(a.getVal());
+        a.setName("hello");
+        System.out.println(a.getName());
 
     }
 }
