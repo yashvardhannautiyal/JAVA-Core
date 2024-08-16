@@ -47,7 +47,7 @@ class derived2{
     }
 
     derived2(int x, int y, int z){
-        super(x,y);
+        super();
         System.out.println("i am an overloaded constructor of derived2 class");
     }
 }
