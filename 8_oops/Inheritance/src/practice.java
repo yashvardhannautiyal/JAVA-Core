@@ -86,7 +86,7 @@ public class practice {
 
         cuboid cub = new cuboid();
         cub.setH(4,4,4);
-        System.out.println("volume of cuboid : "+cub.vol());
+        System.out.println("volume of cuboifd : "+cub.vol());
 
 
     }
