@@ -67,10 +67,6 @@ public class practice {
         System.out.println(t1.getPriority());
         System.out.println(t2.getPriority());
         System.out.println(t1.getState());
-
-
-
-
     }
 
 }
