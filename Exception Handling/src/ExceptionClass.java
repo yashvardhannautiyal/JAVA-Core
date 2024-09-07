@@ -23,7 +23,8 @@ public class ExceptionClass {
 
         if(a<99){
             try {
-                throw new myExceptions();
+//                throw new myExceptions();
+                throw new ArithmeticException("i am arithmeticException");
             }
             catch (Exception e){
                 System.out.println(e.getMessage());
