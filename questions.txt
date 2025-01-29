@@ -1,0 +1,115 @@
+----------------------Conditional Statements------------------
+
+1. Write a program to check if a number is even or odd.
+2. Create a program to find the largest of three numbers using nested if.
+3. Write a program to check whether a year is a leap year or not.
+4. Implement a program to calculate grade based on marks using if-else.
+5. Check whether a character is a vowel or consonant.
+6. Create a simple calculator using a switch statement.
+7. Write a program to determine whether a number is positive, negative, or zero.
+8. Check whether a person is eligible to vote based on their age.
+9. Determine if a character is uppercase, lowercase, or a digit.
+10. Find the smallest of three numbers using if-else.
+
+
+-------------------Loops--------------------
+
+Write a program to print the first 10 natural numbers using a for loop.
+Print the multiplication table of a given number.
+Calculate the sum of the first 100 natural numbers using a loop.
+Write a program to reverse a number using a while loop.
+Print all prime numbers between 1 and 100.
+Check if a given number is a palindrome.
+Calculate the factorial of a number using a for loop.
+Write a program to count the number of digits in a number.
+Print Fibonacci series up to n terms using loops.
+Write a program to find the sum of digits of a number using a while loop.
+Functions and Methods
+Write a function to find the maximum of two numbers.
+Create a function to calculate the power of a number.
+Implement a function to check whether a number is prime.
+Write a function to swap two numbers without using a temporary variable.
+Create a method to calculate the sum of elements in an array.
+Write a function to reverse a string.
+Implement a method to check if a string is a palindrome.
+Write a method to find the greatest common divisor (GCD) of two numbers.
+Create a function to find the average of an array of numbers.
+Implement a method to count the number of vowels in a string.
+Operators
+Demonstrate the use of arithmetic operators in a program.
+Write a program to check whether a number is divisible by 5 and 11.
+Implement a program to find the result of a complex arithmetic expression.
+Write a program to demonstrate the use of relational operators.
+Implement a program to demonstrate logical operators (&&, ||, !).
+Create a program that uses increment and decrement operators.
+Demonstrate the use of bitwise operators in a program.
+Write a program to calculate the result of a ternary operator.
+Show the difference between == and equals() with a practical example.
+Write a program to swap two numbers using bitwise XOR.
+Array
+Write a program to find the largest element in an array.
+Implement a program to calculate the sum of all elements in an array.
+Create a program to reverse an array.
+Write a program to find the second largest number in an array.
+Check whether two arrays are equal.
+Implement a program to sort an array in ascending order.
+Write a program to find the frequency of each element in an array.
+Create a program to merge two arrays into one.
+Find the maximum and minimum element in an array.
+Rotate an array to the left by a given number of steps.
+String
+Write a program to reverse a string.
+Check if a string is a palindrome.
+Implement a program to count vowels and consonants in a string.
+Write a program to find the length of a string without using length().
+Check whether a string is an anagram of another.
+Create a program to remove duplicate characters from a string.
+Write a program to check if a string contains only digits.
+Replace all occurrences of a substring with another substring.
+Find the first non-repeated character in a string.
+Implement a program to find all permutations of a string.
+Object-Oriented Programming (OOP)
+Create a class with attributes and methods to represent a student.
+Implement inheritance using a base class Animal and a derived class Dog.
+Demonstrate method overriding with a practical example.
+Write a program to implement a constructor with parameters.
+Create a class with a static variable and demonstrate its usage.
+Write a program to implement multiple inheritance using interfaces.
+Demonstrate the use of this and super keywords.
+Implement polymorphism using method overloading and overriding.
+Create an abstract class Shape with a method area() and implement it in subclasses.
+Write a program to demonstrate encapsulation with getter and setter methods.
+Exception Handling
+Write a program to demonstrate try, catch, and finally blocks.
+Implement a program to handle an ArrayIndexOutOfBoundsException.
+Demonstrate the use of multiple catch blocks in a program.
+Write a program to throw a custom exception.
+Create a program to handle NullPointerException.
+Demonstrate the use of throws keyword with an example.
+Implement a program to catch and handle NumberFormatException.
+Write a program to simulate a divide-by-zero exception.
+Create a program that uses a try-with-resources block.
+Demonstrate the use of the throw keyword.
+Multithreading
+Write a program to create a thread by extending Thread class.
+Create a thread using the Runnable interface.
+Implement a program to demonstrate thread synchronization.
+Write a program to implement inter-thread communication.
+Create a program to demonstrate the use of join() method.
+Implement a program to demonstrate wait() and notify().
+Write a program to create multiple threads.
+Demonstrate thread priorities in a program.
+Write a program to create a thread-safe counter.
+Demonstrate the use of sleep() method in a program.
+Method Overloading
+Write a program to implement method overloading with different parameter types.
+Demonstrate method overloading by changing the number of parameters.
+Create a program to overload constructors in a class.
+Write a program to implement method overloading for calculating area (e.g., area of square, rectangle).
+Demonstrate method overloading with static and non-static methods.
+Collections
+Write a program to demonstrate the use of ArrayList.
+Implement a program to add and remove elements from a LinkedList.
+Create a program to store unique elements using HashSet.
+Write a program to demonstrate the use of a HashMap.
+Implement a program to sort elements in a TreeSet.
