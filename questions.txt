@@ -14,17 +14,19 @@
 
 -------------------Loops--------------------
 
-Write a program to print the first 10 natural numbers using a for loop.
-Print the multiplication table of a given number.
-Calculate the sum of the first 100 natural numbers using a loop.
-Write a program to reverse a number using a while loop.
-Print all prime numbers between 1 and 100.
-Check if a given number is a palindrome.
-Calculate the factorial of a number using a for loop.
-Write a program to count the number of digits in a number.
-Print Fibonacci series up to n terms using loops.
-Write a program to find the sum of digits of a number using a while loop.
-Functions and Methods
+11. Write a program to print the first 10 natural numbers using a for loop.
+12. Print the multiplication table of a given number.
+13. Calculate the sum of the first 100 natural numbers using a loop.
+14. Write a program to reverse a number using a while loop.
+15. Print all prime numbers between 1 and 100.
+16. Check if a given number is a palindrome.
+17. Calculate the factorial of a number using a for loop.
+18. Write a program to count the number of digits in a number.
+19. Print Fibonacci series up to n terms using loops.
+20. Write a program to find the sum of digits of a number using a while loop.
+
+---------------------Functions and Methods---------------------
+
 Write a function to find the maximum of two numbers.
 Create a function to calculate the power of a number.
 Implement a function to check whether a number is prime.
