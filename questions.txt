@@ -27,28 +27,32 @@
 
 ---------------------Functions and Methods---------------------
 
-Write a function to find the maximum of two numbers.
-Create a function to calculate the power of a number.
-Implement a function to check whether a number is prime.
-Write a function to swap two numbers without using a temporary variable.
-Create a method to calculate the sum of elements in an array.
-Write a function to reverse a string.
-Implement a method to check if a string is a palindrome.
-Write a method to find the greatest common divisor (GCD) of two numbers.
-Create a function to find the average of an array of numbers.
-Implement a method to count the number of vowels in a string.
-Operators
-Demonstrate the use of arithmetic operators in a program.
-Write a program to check whether a number is divisible by 5 and 11.
-Implement a program to find the result of a complex arithmetic expression.
-Write a program to demonstrate the use of relational operators.
-Implement a program to demonstrate logical operators (&&, ||, !).
-Create a program that uses increment and decrement operators.
-Demonstrate the use of bitwise operators in a program.
-Write a program to calculate the result of a ternary operator.
-Show the difference between == and equals() with a practical example.
-Write a program to swap two numbers using bitwise XOR.
-Array
+21. Write a function to find the maximum of two numbers.
+22. Create a function to calculate the power of a number.
+23. Implement a function to check whether a number is prime.
+24. Write a function to swap two numbers without using a temporary variable.
+25. Create a method to calculate the sum of elements in an array.
+26. Write a function to reverse a string.
+27. Implement a method to check if a string is a palindrome.
+28. Write a method to find the greatest common divisor (GCD) of two numbers.
+29. Create a function to find the average of an array of numbers.
+30. Implement a method to count the number of vowels in a string.
+
+----------------------Operators----------------
+
+31. Demonstrate the use of arithmetic operators in a program.
+32. Write a program to check whether a number is divisible by 5 and 11.
+33. Implement a program to find the result of a complex arithmetic expression.
+34. Write a program to demonstrate the use of relational operators.
+35. Implement a program to demonstrate logical operators (&&, ||, !).
+36. Create a program that uses increment and decrement operators.
+37. Demonstrate the use of bitwise operators in a program.
+38. Write a program to calculate the result of a ternary operator.
+39. Show the difference between == and equals() with a practical example.
+40. Write a program to swap two numbers using bitwise XOR.
+
+-----------------------Array--------------------
+
 Write a program to find the largest element in an array.
 Implement a program to calculate the sum of all elements in an array.
 Create a program to reverse an array.
