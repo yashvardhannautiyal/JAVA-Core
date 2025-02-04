@@ -8,11 +8,13 @@ public class ques_18 {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
 
-        int numDigit = 0;
+        int count = 0;
 
-        while(num){
-            num = num%10;
-            
+        while(num>0){
+            num = num/10;
+            count = count + 1;
         }
+
+        System.out.println("Number of digits : "+count);
     }
 }
